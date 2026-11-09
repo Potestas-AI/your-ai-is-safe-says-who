@@ -2,7 +2,7 @@
 
 **Who Tests the Testers, Book One.** By Joseph Cirello, founder of [Potestas AI](https://potestasai.com). First edition, September 2026.
 
-### [Download the free PDF](https://github.com/JosephCirello/your-ai-is-safe-says-who/raw/main/Your_AI_Is_Safe_Says_Who_Book_One.pdf)
+### [Download the free PDF](https://github.com/Potestas-AI/your-ai-is-safe-says-who/raw/main/Your_AI_Is_Safe_Says_Who_Book_One.pdf)
 
 Free, no sign-up. The same file is at [potestasai.com/book](https://potestasai.com/book).
 
